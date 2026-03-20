@@ -2,7 +2,7 @@ import numpy as np
 import math
 import matplotlib.pyplot as plt
 
-#Dados Iniciais
+#Dados Iniciais 1
 x=1
 n=6
 #u=2.7182
