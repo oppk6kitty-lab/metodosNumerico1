@@ -51,6 +51,4 @@ plt.legend()
 plt.xlabel("Número de termos")
 plt.ylabel("$E_{pt}$ (%)")
 plt.grid()
-
-
-
+plt.show()
